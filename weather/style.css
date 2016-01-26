@@ -1,0 +1,9 @@
+body{
+    background-color: lightblue;
+}
+#button{
+    cursor: pointer;
+}
+#mydiv{
+    font-style:italic;
+}
